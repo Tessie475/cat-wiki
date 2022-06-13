@@ -1,6 +1,4 @@
 'use strict'
-
-// document.getElementById('cat-img--div').addEventListener('onload', loadImages)
 const catImg = document.getElementById('cat-img--div')
 function renderImages(data) {
     const images = `
